@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mí</h3>
 
-- 🤔 &nbsp; Soy una persona proactiva muy organizada, curiosa con ganas de seguir aprendiendo.
+- 🤔 &nbsp; Soy una persona proactiva, muy organizada, curiosa con ganas de seguir aprendiendo.
 - 🎓 &nbsp; Estudiando Analista de Sistemas en ISTEA
 - 💼 &nbsp; En búsqueda de mi primer trabajo IT.
 - 🌱 &nbsp; Me gustaria seguir creciendo tanto como proefional como persona.
