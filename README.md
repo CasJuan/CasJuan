@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Soy una persona proactiva, muy organizada, curiosa con ganas de seguir aprendiendo.
 - 🎓 &nbsp; Estudiando Analista de Sistemas en ISTEA
 - 💼 &nbsp; En búsqueda de mi primer trabajo IT.
-- 🌱 &nbsp; Me gustaria seguir creciendo tanto como proefional como persona.
+- 🌱 &nbsp; Me gustaría seguir creciendo tanto como profesional como persona.
 
 <h3> 🛠 &nbsp;Stack de tecnologias</h3>
 
